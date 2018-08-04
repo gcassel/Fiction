@@ -262,352 +262,489 @@ void-- I cried out 'Help me! I don't want to die!' and I passed out.
 "When I woke up, I knew that I had been saved.  I was lying in a beautiful tent under 
 the care of a camel-riding couple.  They asked me what my name was, and I had none.   
 So they called me Nathan.   And it was good to have a name."
-     The monk seems thoughtful.  "So you became a rider, then."
-     "Yes, I lived their life for years."
-     "Why have you come to us," the monk asks, "naked and on foot?"
-     "The riders are a cold people," I explain.  "They hoard  the desert's few treasures in 
+
+The monk seems thoughtful.  "So you became a rider, then."
+
+"Yes, I lived their life for years."
+
+"Why have you come to us," the monk asks, "naked and on foot?"
+
+"The riders are a cold people," I explain.  "They hoard  the desert's few treasures in 
 their guarded valleys, where the air is thick and waters pool after the sporadic rains.  And 
 they foresake their less-able people, the ones who can't survive in their merciless society.  
 These misfits become walkers, wandering among the higher dunes until they die from 
 hunger or thirst.  As a camel-riding fortunate, I often spied on them in grisly fascination.  
 Eventually I became sorrowful; I demanded to know why the riders allowed the walkers 
 to suffer so.
-     "The riders told me that the desert is a hard place where the unfit must be left to suffer 
+
+"The riders told me that the desert is a hard place where the unfit must be left to suffer 
 or die on their own.  The riders showed no pity for the walkers," I say.
-     "Yes.  In fact, most riders hate the walkers," adds the monk.  "And you did not?"
-     I am surprised.  "How could I hate those poor people?  I saw their misery, and yes, 
+
+"Yes.  In fact, most riders hate the walkers," adds the monk.  "And you did not?"
+
+I am surprised.  "How could I hate those poor people?  I saw their misery, and yes, 
 hate stirred within-- hate for the riders, who sat in their colorful tents sucking fruits and 
 acting as if the walkers didn't exist.  Did they think they were special?   Did they think 
 they had some special right to live well, and that the walkers did not??" 
-     "The riders are indeed special," replies the monk with a sad smile.  "But I guess you 
+
+"The riders are indeed special," replies the monk with a sad smile.  "But I guess you 
 didn't like their kind of special, Nathan."
-     "I left them," I answer.  "I looked them in the eye and said, 'I shall walk the desert with 
+
+"I left them," I answer.  "I looked them in the eye and said, 'I shall walk the desert with 
 open eyes and bare skin.  I shall see what this world offers its poor.'  The riders laughed 
 at me.  They said, 'You will die, fool.  You will die as you would have before we saved 
 you.'  They turned away and said, 'We will not mourn you, for you are no longer of us.'"
-     "So they deal with their losses," the monk observes.
-     "Yes," I agree, "and I wonder why they even saved me to begin with."
-     "Perhaps to continue their way of life," the monk ventures.  "As you know, the riders 
+
+"So they deal with their losses," the monk observes.
+
+"Yes," I agree, "and I wonder why they even saved me to begin with."
+
+"Perhaps to continue their way of life," the monk ventures.  "As you know, the riders 
 are a sterile people.  Their ranks would dwindle and disappear were it not for those like 
 you-- runners.   Runners who come from the edge of the world."
-     I am startled.  "Do you know of a place beyond the edge of the desert?" I ask.  "Do you 
+
+I am startled.  "Do you know of a place beyond the edge of the desert?" I ask.  "Do you 
 know of the jungle?"
-     The monk smiles.   "I know of a place beyond the desert, young man," he replies, 
+
+The monk smiles.   "I know of a place beyond the desert, young man," he replies, 
 "although I've never met one such as you, who claims to recall his prior circumstances.  
 But we've all been elsewhere... And we've all run."
-     I listen, breathless, until I realize the monk has finished speaking.  I grope about my 
+
+I listen, breathless, until I realize the monk has finished speaking.  I grope about my 
 mind to find the loose threads of the tale I spin.
-     "So I forsook the riders," I continue, "casting off my belongings and parting with my 
+
+"So I forsook the riders," I continue, "casting off my belongings and parting with my 
 faithful camel.  I ventured into the deeper dunes and became a walker.  I wanted to see if 
 I could live that way.  I wanted to see if there was any good reason for anyone to live that 
 way.  And if I couldn't make it, I was better off dead anyway."
-     "What was your experience as a walker?" asks the monk.
-     "It wasn't what I expected," I reply.  "It was quiet and peaceful at first.  I had gotten 
+
+"What was your experience as a walker?" asks the monk.
+
+"It wasn't what I expected," I reply.  "It was quiet and peaceful at first.  I had gotten 
 away from the riders, and I was happy to be alone.  I wondered why anyone would want 
 to live any other way."
-     "But the desert had nearly killed you before under similar circumstances-- when the 
+
+"But the desert had nearly killed you before under similar circumstances-- when the 
 riders had first found you, when you couldn't breathe!"
-     "Yes, but I was different this time," I explain to my questioner.  "The desert was the 
+
+"Yes, but I was different this time," I explain to my questioner.  "The desert was the 
 same; I could feel its oppressive emptiness about me.  But my experience with the riders, 
 and my rejection of their ways, had somehow changed me.  I was able to conserve my 
 energies in some way-- to wrap up inside of myself and survive in a void that would keep 
 anything I gave to it.  I knew that if I gave of myself to that void I would die."
-     "But surely you would die eventually,  no matter how self-contained you were," the 
+
+"But surely you would die eventually,  no matter how self-contained you were," the 
 monk wonders.  "Eventually the human body needs food, drink and air."
-     "Perhaps, but very little... believe me..." I smile.  "At any rate... I truly believed I could 
+
+"Perhaps, but very little... believe me..." I smile.  "At any rate... I truly believed I could 
 live alone in the desert forever-- and I wanted to.
-     "I saw walkers occasionally, but walkers are solitary people and we did not truly 
+
+"I saw walkers occasionally, but walkers are solitary people and we did not truly 
 interact.  I simply walked right by each I met at my normal pace, sharing only a glance in 
 which we each understood the other's lot in life."
-     "How interesting," comments the monk.  "Your story is not really a new one, young 
+
+"How interesting," comments the monk.  "Your story is not really a new one, young 
 man, yet each tale brings new lessons.  And how did your tale end here?" he inquires.  
 "You are not wandering about the desert forever, as you had wished."
-     I sigh.  "I still wonder if that is possible.  There one is free.  But events transpired that 
+
+I sigh.  "I still wonder if that is possible.  There one is free.  But events transpired that 
 made walking undesirable.  I guess that's why I came to the temple.
-     "When I first met the Shadow," I explain, "I still wanted to live forever in the bare 
+
+"When I first met the Shadow," I explain, "I still wanted to live forever in the bare 
 desert.
-     "My dreams upon my walk had always been of the past, always the same, going 
+
+"My dreams upon my walk had always been of the past, always the same, going 
 through the stages of my life as a rider.  One night, I went back to the beginning; back to 
 what was then my earliest memory--  that time I had lain dying on the doorstep of the 
 desert, where the riders were to find me.
-     "I dreamed I lay again on that sand, and I could feel myself being sucked into a dark 
+
+"I dreamed I lay again on that sand, and I could feel myself being sucked into a dark 
 shapeless void.  But this time, instead of crying out for help, I stared into that void.  And 
 as I stared, it took shape.
-     "It coalesced over my head into a shadowy human form.  It hovered above me, silent 
+
+"It coalesced over my head into a shadowy human form.  It hovered above me, silent 
 and waiting.  I knew it was waiting for me to die, but I would not surrender without 
 questioning my fate.  I stood up, and I found that I was on the brink of a yawning chasm.  
 Bottomless waters beckoned far below.  I wondered what they concealed."
-     The monk listens uneasily to the story of the Shadow, a story I've lived through many 
+
+The monk listens uneasily to the story of the Shadow, a story I've lived through many 
 times.  I tell him how I refused to leap into the unknown, and how I fought for my soul.
-     "What happened after you threw the Shadow off the cliff?" asks the monk.
-     "I woke up, thankful to be alive.  But the desert seemed to have changed.
-     "No longer was it a quiet, empty and harmless refuge for a solitary soul.  It was 
+
+"What happened after you threw the Shadow off the cliff?" asks the monk.
+
+"I woke up, thankful to be alive.  But the desert seemed to have changed.
+
+"No longer was it a quiet, empty and harmless refuge for a solitary soul.  It was 
 violent, as if it were trying to get rid of me.  Stinging winds blew sand in my eyes, nose 
 and mouth.  A hot red sun seared me.  My thirst became nearly unbearable.
-     "But I was too stubborn to give up.  Day after day, I refused to accept the Shadow's 
+
+"But I was too stubborn to give up.  Day after day, I refused to accept the Shadow's 
 offer of release-- an offer that was extended every time I closed my eyes.
-     "Finally I reached your temple," I conclude.  "I have been battered but here I stand.  
+
+"Finally I reached your temple," I conclude.  "I have been battered but here I stand.  
 I'm ready to face my fate, whatever it should be."  I am startled at how true my words 
 seem.
-     The monk is silent for a long time.  He then speaks quite deliberately.
-     "You have faced the fires of the world, young man, and I thank the Lord that you have 
+
+The monk is silent for a long time.  He then speaks quite deliberately.
+
+"You have faced the fires of the world, young man, and I thank the Lord that you have 
 succeeded.  I wish that every vessel of God's unending spirit had such fortitude.
-     "You may become a monk.  I believe that your character will compel you to accept 
+
+"You may become a monk.  I believe that your character will compel you to accept 
 this challenge.  So it was with me."
-     "What is the challenge?" I ask.
-     "The challenge is to bow before God.  To accept the constraints of morality.  Few are 
+
+"What is the challenge?" I ask.
+
+"The challenge is to bow before God.  To accept the constraints of morality.  Few are 
 willing to do so."
-     "How many?"
-     "How many monks are there?" he rephrases my query.  "All too few.  How many of 
+
+"How many?"
+
+"How many monks are there?" he rephrases my query.  "All too few.  How many of 
 those you have seen could face what you have faced?  And having faced such challenges, 
 having survived through sheer strength of will-- how many would then have the humility 
 to serve God?"
-     Not many, I think.  "But am I a moral man?  Am I worthy to face God?"  And I am 
+
+Not many, I think.  "But am I a moral man?  Am I worthy to face God?"  And I am 
 asking myself as well as the monk.
-     He replies first.  "No one is worthy to face God, Nathan.  All have wronged him by 
+
+He replies first.  "No one is worthy to face God, Nathan.  All have wronged him by 
 leaving their rightful place at his side.  But his love is such that he will take you back.  
 For you have rejected the lie that binds man to the desert."
-     "What is the lie?" I ask.
-     "To lie is to deny the truth," explains the monk.  "The desert-dwellers deny that life in 
+
+"What is the lie?" I ask.
+
+"To lie is to deny the truth," explains the monk.  "The desert-dwellers deny that life in 
 the desert is an invalid existence.  They deny their misery.
-     "The riders deny their misery by hiding from the desert's true nature-- its barrenness.  
+
+"The riders deny their misery by hiding from the desert's true nature-- its barrenness.  
 They greedily collect the desert's few resources, creating a material veil that shields their 
 eyes from the desert's spiritual poverty.  Their petty hoarding occupies their awareness to 
 such extent that they cannot see the holes in their hearts-- the spaces where God should 
 be.
-     "And without God's mercy to guide them, they are unable to feel for the unfortunates, 
+
+"And without God's mercy to guide them, they are unable to feel for the unfortunates, 
 the walkers.  They deny the reality of the walkers' predicament by somehow convincing 
 themselves that the walkers deserve their suffering.  They choose to deny that the walkers 
 suffer unfairly."
-     "I was unable to deny it," I say.
-     "Your compassion forced you to face that truth.  So you joined the walkers to see if 
+
+"I was unable to deny it," I say.
+
+"Your compassion forced you to face that truth.  So you joined the walkers to see if 
 their condition was truly unacceptable."
-     "Eventually I found it to be so," I say.  "The Shadow made me see it that way."
-     "But most walkers accept their fate.  They dwell in the very midst of the barren desert, 
+
+"Eventually I found it to be so," I say.  "The Shadow made me see it that way."
+
+"But most walkers accept their fate.  They dwell in the very midst of the barren desert, 
 and they accept that existence with every breath they take."
-     "What choice do they have, though?" I wonder.  "What else can they do with 
+
+"What choice do they have, though?" I wonder.  "What else can they do with 
 themselves, as poor as they are?"
-     "They can do as you have," answers the monk.  "They can open their eyes to their true 
+
+"They can do as you have," answers the monk.  "They can open their eyes to their true 
 alternatives."
-     "But all I have done is search for the truth," I return.  "I found the temple by accident."
-     "You found the temple because you sought the truth," the monk says.  "Seeking truth, 
+
+"But all I have done is search for the truth," I return.  "I found the temple by accident."
+
+"You found the temple because you sought the truth," the monk says.  "Seeking truth, 
 one finds it.  It sounds simple and it is-- but it requires great courage.   Most walkers 
 prefer to hunger in the desert."
-     "How do they justify such an existence?"
-     "As the riders lie to themselves, so do the walkers," explains the monk.  "Pride is the 
+
+"How do they justify such an existence?"
+
+"As the riders lie to themselves, so do the walkers," explains the monk.  "Pride is the 
 lie they use to justify their situation.  In false pride, they tell themselves they are too 
 strong to give up on life in the desert, however hard the life may be.
-     "In truth, they are afraid to face the light of God-- the light in which all truths are 
+
+"In truth, they are afraid to face the light of God-- the light in which all truths are 
 revealed.  This fear is what keeps them in the desert; the false pride makes it easier for 
 them to live with the choice."
-     "I think I see," I reply, nodding.  "The walkers and the riders all have ways of 
+
+"I think I see," I reply, nodding.  "The walkers and the riders all have ways of 
 rationalizing their existence in the desert.  They all have ways of denying that they are 
 doing the wrong thing."
-     "Yes," the monk agrees, smiling at the logic.  "For one needs to believe he is doing 
+
+"Yes," the monk agrees, smiling at the logic.  "For one needs to believe he is doing 
 right, even in the most shameful activities."
-     "And do you think I have rejected these shameful activities?" I ask.  "These ways of 
+
+"And do you think I have rejected these shameful activities?" I ask.  "These ways of 
 the desert-dwellers?"
-     "Yes.  You have seen their futility, and that is why you are here."
-     "Having rejected the desert, then, what am I left with?" I demand.  "Fear?"
-     The monk stares into my eyes.  "I see the fear that still threatens to consume you, 
+
+"Yes.  You have seen their futility, and that is why you are here."
+
+"Having rejected the desert, then, what am I left with?" I demand.  "Fear?"
+
+The monk stares into my eyes.  "I see the fear that still threatens to consume you, 
 Nathan.  You are afraid that the truth may not be to your liking.  And if so, you will be 
 left with nothing..."
-     "Not even hope," I agree.   "But I've lied enough in this life, and now I will see the 
+
+"Not even hope," I agree.   "But I've lied enough in this life, and now I will see the 
 truth.
-     "Why do we walk to the desert?" I ask.  "You have shown me the lies that bind us to 
+
+"Why do we walk to the desert?" I ask.  "You have shown me the lies that bind us to 
 this place; now I must know why we are here.  Has man chosen to come here, or has he 
 been forced to do so?"
-     The monk's reply is pained.  "Man chooses to come here.  God grants him the power 
+
+The monk's reply is pained.  "Man chooses to come here.  God grants him the power 
 to think and choose, for how else may man serve God?"  He suddenly, strangely laughs.  
 "If God had to think for man, he might as well dispense with man and do everything 
 himself.  But I digress...
-     "You ask me why man comes to the desert.  He does so because he hopes to avoid the 
+
+"You ask me why man comes to the desert.  He does so because he hopes to avoid the 
 alternative."
-     "Which is?"
-     "It is as I told you earlier," answers the monk.  "The alternative is to bow before God; 
+
+"Which is?"
+
+"It is as I told you earlier," answers the monk.  "The alternative is to bow before God; 
 to accept the constraints of morality." 
-     "But what does that mean?" I pursue.
-     "It is simply to serve God's will," he smiles.
-     "What is God's will?" I continue demandingly.
-     "That is a difficult question," the monk replies.  "We have some clear laws, as God 
+
+"But what does that mean?" I pursue.
+
+"It is simply to serve God's will," he smiles.
+
+"What is God's will?" I continue demandingly.
+
+"That is a difficult question," the monk replies.  "We have some clear laws, as God 
 has been kind enough to share the most important precepts directly with our prophets.  
 But the laws do not make all decisions clear to the common man.  The rest depends on 
 prayer... allowing God's will to enter one's heart...
-     "God's will is what directs his work-- and that work is important, that work is holy, for 
+
+"God's will is what directs his work-- and that work is important, that work is holy, for 
 God is not subject to the petty yearnings of mankind.
-     "God created man to be an instrument of his will," continues the monk.  "Man helps 
+
+"God created man to be an instrument of his will," continues the monk.  "Man helps 
 God in his work by performing the role he is meant to-- the role he should seek to know.  
 Knowing this role, man can use his mind to decide how to fulfill his obligation.
-     "This mind that God gives us is a wonderful tool; with it a man can fully realize his 
+
+"This mind that God gives us is a wonderful tool; with it a man can fully realize his 
 purpose, performing the details of God's work.  Unfortunately, the power to think is 
 abused.  It is abused when man questions his God-given role.  You see," the monk 
 explains, "man's greatest flaw is his desire to change or expand upon his role.  He 
 believes that his power to think gives him the ability to make all decisions."
-     "I think I understand," I venture.  "Man wants to feel that he can do whatever he 
+
+"I think I understand," I venture.  "Man wants to feel that he can do whatever he 
 wants-- that he is capable of judging what his role should be.  He wants this power.  
 When he sees that he is not granted such power by God..."
-     "He leaves the light," the monk finishes for me.  "He leaves his proper place in God's 
+
+"He leaves the light," the monk finishes for me.  "He leaves his proper place in God's 
 universe, because he wants greater freedom.  He seeks a world where he can rule with his 
 will alone... a world where he can do whatever he wants.  
-     "He finds the desert.  A world he can rule-- but a barren one, outside of the light, 
+
+"He finds the desert.  A world he can rule-- but a barren one, outside of the light, 
 unable to truly make him happy.  Yet still able to keep a hold on him, even after he sees 
 he will never be happy in such darkness.   He fears the light... He fears even to see his 
 rightful place, which he has forsaken.  He fears judgement for his misdeeds."
-     "Is this last fear a valid one?" I ask.  "Does man suffer a punishment when he faces 
+
+"Is this last fear a valid one?" I ask.  "Does man suffer a punishment when he faces 
 God, whom he fled?"
-     The monk sighs sadly.  "No, of course not; God would never punish man for any deed.  
+
+The monk sighs sadly.  "No, of course not; God would never punish man for any deed.  
 One only punishes that which he hates, and God hates no man, for God understands man 
 and all his actions.
-     "Man punishes himself for leaving the light.  He punishes himself because he does not 
+
+"Man punishes himself for leaving the light.  He punishes himself because he does not 
 understand his own actions, which often seem wicked to him.  But when a man is ready 
 to accept what he has done, when he is ready to look at himself with open eyes--  then he 
 is ready to stop punishing himself.  Then he is ready for the light.  And, as I have said, 
 God will take him back.
-     "Are you ready to face yourself, Nathan?" the monk says, ominously emphasizing my 
+
+"Are you ready to face yourself, Nathan?" the monk says, ominously emphasizing my 
 name.  "You have recounted your deeds, it is true, but the final task remains-- you must 
 see where you have failed and accept that failure.  For only then will you believe that you 
 deserve a better life.  Only then may you leave the barren desert-- the barren yet safe and 
 secure desert."
-     "The desert certainly is safe," I agree.  "It's safe enough for anyone who really wants to 
+
+"The desert certainly is safe," I agree.  "It's safe enough for anyone who really wants to 
 stay in it."  I remember how close I'd often come to dying in the desert, only to live 
 because of my desire to remain there.  I thought I had been strong in surviving, but had I 
 only been afraid?   Afraid of the unknown?
-     I've been running from the Shadow for a long time.  Ever since it showed me that 
+
+I've been running from the Shadow for a long time.  Ever since it showed me that 
 shapeless sea of risk, the unknown.  And I've been telling myself that I'm running because 
 I don't want to die.
-     But maybe I do want to die.  Maybe I'm just afraid to actually try it.
-     Maybe I'm afraid to look into the sea, and see the true face below its shapeless 
+
+But maybe I do want to die.  Maybe I'm just afraid to actually try it.
+
+Maybe I'm afraid to look into the sea, and see the true face below its shapeless 
 surface-- a face I've known, but have hidden beneath a lie.  And is that face behind the 
 lie, the face of God?
-     I suddenly realize, with chilling certainty, the ultimate nature of the monk's religion.  
+
+I suddenly realize, with chilling certainty, the ultimate nature of the monk's religion.  
 But I ask the questions anyway.
-     "How may I serve God's will?" I ask.
-     "First you must return to the light."
-     "And where will I find the light?" I continue.
-     "Not in this desert."
-     "Then why do you remain here?"
-     "To help others see the way to the light.  Then we may leave."  The monk stares at me 
+
+"How may I serve God's will?" I ask.
+
+"First you must return to the light."
+
+"And where will I find the light?" I continue.
+
+"Not in this desert."
+
+"Then why do you remain here?"
+
+"To help others see the way to the light.  Then we may leave."  The monk stares at me 
 with eager religious fervor.  "Do you see the way to the light?"
-     And I see that he is hungry for the light.  If I become a monk, he can kill himself and 
+
+And I see that he is hungry for the light.  If I become a monk, he can kill himself and 
 join with his God.  I now understand the lure of his religion--  hope.  An explanation for 
 this barren world, and the promise of a better one to come.
-     And is it the world for me?   As I wonder, I realize that I now know what my options 
+
+And is it the world for me?   As I wonder, I realize that I now know what my options 
 are-- all of them.  I can see them in my mind.
-     I picture myself walking through the desert, living forever, never changing.  And the 
+
+I picture myself walking through the desert, living forever, never changing.  And the 
 desert never changes; it's always the same.
-     I picture myself becoming a monk, showing some lost soul the way to the light, and 
+
+I picture myself becoming a monk, showing some lost soul the way to the light, and 
 killing myself.  I picture myself going to the monk's heaven, bowing to the will of God, 
 playing my little part and living happily ever after.  Never changing.  And my role never 
 changes.
-     It's always the same.
-     Finally I picture myself with the Shadow, looking into the sea of the unknown.  Do I 
+
+It's always the same.
+
+Finally I picture myself with the Shadow, looking into the sea of the unknown.  Do I 
 see the face of God in that sea?   Do I see the monk's world?
-     No.  All I see is a shapeless sea of possibilities.  All the possibilities that arise when 
+
+No.  All I see is a shapeless sea of possibilities.  All the possibilities that arise when 
 one changes-- when one leaves the comfort of the known.
-     And I know the face of God...
-     Finally, I remember the truth-- the whole truth.  Finally, I see what I have done.
 
+And I know the face of God...
 
-...He dips his blade in his lifeblood divine
+Finally, I remember the truth-- the whole truth.  Finally, I see what I have done.
+#
+*...He dips his blade in his lifeblood divine*
 
-And with magic force encloses a line
+*And with magic force encloses a line*
 
-The circle thus drawn defends his spine
+*The circle thus drawn defends his spine*
 
-But in it his eyes shall no longer shine
+*But in it his eyes shall no longer shine*
 
-He feeds on feces, self-deceit his crown
+*He feeds on feces, self-deceit his crown*
 
-Outside of the laughing lights of the town...
+*Outside of the laughing lights of the town...*
+#
 
-     When I had first viewed the world of man, from the realm of God, I was shocked to 
+When I had first viewed the world of man, from the realm of God, I was shocked to 
 think that I must go there.  But I was part of the light and I could not hide from the truth:
-     I needed to change.
-     To grow.
-     I had to do so on my own.  No strings attached.  So I entered the world of man-- not 
+
+I needed to change.
+
+To grow.
+
+I had to do so on my own.  No strings attached.  So I entered the world of man-- not 
 merely to understand it, as I have told the monk, but to be fundamentally altered by the 
 experience.  And, as I have told the monk, I did not enter a desert.  I knew where I was 
 going, and it was anything but a desert.
-     But once I was in the jungle, I could remember none of this.  I had to survive without 
+
+But once I was in the jungle, I could remember none of this.  I had to survive without 
 the benefit of prior knowledge; I had to find a new place for myself in a new world-- a 
 world where the light flourished, but in colors I'd never seen... the Unknown.
-     And, as I had known would happen, I became afraid.  I feared I would become lost in 
+
+And, as I had known would happen, I became afraid.  I feared I would become lost in 
 the new colors, for they wished me to mingle!  I feared I would lose everything I knew; I 
 feared I would die.  So I ran to the desert.  I hid in its circle of nothingness.
-     The desert was a wonderful refuge.  I was safe there, and I still am.  I'm safe from the 
+
+The desert was a wonderful refuge.  I was safe there, and I still am.  I'm safe from the 
 dangers that arise when one leaves the comfort of the white light and enters the 
 multihues.  But I've grown as much as I can in this desert, and that is why it torments me 
 with cruel winds and heat.  That is why the Shadow beckons me.
-     I am sad as I talk to the monk-- sad yet exulted.  So it feels to be alive.  It's the first 
+
+I am sad as I talk to the monk-- sad yet exulted.  So it feels to be alive.  It's the first 
 time I've felt that way for ages.
-     "You know much of the truth, brother.  If only you were willing to know more," I 
+
+"You know much of the truth, brother.  If only you were willing to know more," I 
 lament.
-     "What do you mean?" The monk is shocked.
-     "You've created your own lie," I say.  "You've seen through the lies of others, and 
+
+"What do you mean?" The monk is shocked.
+
+"You've created your own lie," I say.  "You've seen through the lies of others, and 
 sensed God who is so far from this desert.  But you're unwilling to accept the whole truth, 
 and so you've distorted God's message to your liking.
-     "You tell me of the world of God," I continue.  "You describe a way of living in the 
+
+"You tell me of the world of God," I continue.  "You describe a way of living in the 
 light-- living in harmony with God's will; playing a part in his master plan.  You say this 
 is the way we should live.
-     "I've been to that world, monk.  I remember the light and I crave it.  But I will not fall 
+
+"I've been to that world, monk.  I remember the light and I crave it.  But I will not fall 
 for your lie.   I've fallen for too many lies.
-     "I know that I had to leave the light.  I know this was necessary."
-     The monk's expression changes from surprise to horror.  "You don't know what you're 
+
+"I know that I had to leave the light.  I know this was necessary."
+
+The monk's expression changes from surprise to horror.  "You don't know what you're 
 saying!" he proclaims.  "If you truly knew of the light, you would see that you belong 
 with it!"
-     "I understand why you're upset," I say.  "You need to feel that your beliefs are true, so 
+
+"I understand why you're upset," I say.  "You need to feel that your beliefs are true, so 
 you cling to the known and comfortable world.  You need to believe you are right.  But to 
 me, there is no more right or wrong.  There's only living and dying.  And I'm finally ready 
 to live.
-     "Everyone needs to turn away from the light," I proclaim.  "Only then can one learn to 
+
+"Everyone needs to turn away from the light," I proclaim.  "Only then can one learn to 
 shine alone.  And only then can one face one's true fate.  Goodbye, my friend."
-     The monk and the temple fade from my view as I seek to find my true place in the 
+
+The monk and the temple fade from my view as I seek to find my true place in the 
 universe.  I find myself in the desert again.  Was the temple real?
-     Yes, I decide.  Everything is real.
-     As I walk up a long, sandy hill, the stinging gusts and the red sun seem to relax.  The 
+
+Yes, I decide.  Everything is real.
+
+As I walk up a long, sandy hill, the stinging gusts and the red sun seem to relax.  The 
 sand beneath my feet gives way to solid rock, and I come to the edge of a barren cliff 
 overlooking bottomless waters.  The Shadow floats above me.  It knows what I have been 
 thinking.
-     "You have finally seen the way," it croons, almost reverently.
-     I peer into the sea below and wonder what it conceals.
-     "'Tis the unknown that calls to you, Abel.  The desert lies behind; you have seen its 
+
+"You have finally seen the way," it croons, almost reverently.
+
+I peer into the sea below and wonder what it conceals.
+
+"'Tis the unknown that calls to you, Abel.  The desert lies behind; you have seen its 
 perils," whispers the Shadow.
-     "That world can trap a man," I agree.  "But it served its purpose.  What promise does 
+
+"That world can trap a man," I agree.  "But it served its purpose.  What promise does 
 this sea offer?"
-     "The unknown is the end of all want.  Those with the courage to face it no longer 
+
+"The unknown is the end of all want.  Those with the courage to face it no longer 
 suffer the hungers you do, Abel.  Do you not yearn to cast off the shackles of this barren 
 life and feast on the riches of the beyond?"
-     I stare into the waters to see my fate.  At first I see nothing.
-     Then, called from beyond by my desire to know, my eyes rise above the surface of the 
+
+I stare into the waters to see my fate.  At first I see nothing.
+
+Then, called from beyond by my desire to know, my eyes rise above the surface of the 
 water.  Across the bay I see the distant jungle.
-     The jungle... It teems with life... Terribly dangerous in its clashing of ideas and forms, 
+
+The jungle... It teems with life... Terribly dangerous in its clashing of ideas and forms, 
 terribly beautiful in its promise of new ideas and new forms, new worlds and new life-- 
 all created of God, but each free to create in turn.
-     I see the jungle, and I fear it still.  I know I've been prepared, but I still fear losing 
+
+I see the jungle, and I fear it still.  I know I've been prepared, but I still fear losing 
 myself.  The jungle will change me.  It will carve me up and reshape me, over and over.  
 And the jungle will change.  It will never be the same.
-     I look at the Shadow, and say words one more time.
-     "Can I die in that jungle?  Can I lose what I have?"
-     "One cannot die if one does not live," the Shadow answers, as I think of never 
+
+I look at the Shadow, and say words one more time.
+
+"Can I die in that jungle?  Can I lose what I have?"
+
+"One cannot die if one does not live," the Shadow answers, as I think of never 
 changing.
-     I jump.
-     Images of the desert world flash through my mind for the last time as I splash into the 
+
+I jump.
+
+Images of the desert world flash through my mind for the last time as I splash into the 
 rich waters of the sea.  God is very near as I swim towards the jungle.  If I stop 
 swimming, I may stay with It.
-     But I am no longer a sheep at the side of God, nor a blind man in a desert.  I am a man 
+
+But I am no longer a sheep at the side of God, nor a blind man in a desert.  I am a man 
 who sees, and I see where I belong.
-     I enter the jungle.
 
+I enter the jungle.
+#
+*The sad men in their circles,*
 
-The sad men in their circles,
+*They don't know where they should be...*
 
-They don't know where they should be...
+*We're waiting for them to jump out of their skins*
 
-We're waiting for them to jump out of their skins
-
-So we can all learn to be free.
-	
-
-
-Poem:  "Lament of the Woodland Creatures", by author
+*So we can all learn to be free.*
+#	
+##### Poem:  "Lament of the Woodland Creatures", by author
                 
